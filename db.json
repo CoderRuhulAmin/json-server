@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "brand": "LogiTech",
+      "price": 25.99,
+      "stock": 120,
+      "rating": 4.5,
+      "image": "https://example.com/images/mouse.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "brand": "KeyMaster",
+      "price": 79.99,
+      "stock": 80,
+      "rating": 4.7,
+      "image": "https://example.com/images/keyboard.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "category": "Fashion",
+      "brand": "FastFit",
+      "price": 59.99,
+      "stock": 60,
+      "rating": 4.3,
+      "image": "https://example.com/images/shoes.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "brand": "TechTime",
+      "price": 149.99,
+      "stock": 45,
+      "rating": 4.6,
+      "image": "https://example.com/images/watch.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "category": "Accessories",
+      "brand": "UrbanBag",
+      "price": 39.99,
+      "stock": 95,
+      "rating": 4.2,
+      "image": "https://example.com/images/backpack.jpg"
+    }
+  ],
+  "customers": [
+    {
+      "id": 101,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "+8801712345678",
+      "address": "Dhaka, Bangladesh",
+      "joinedDate": "2025-01-12",
+      "isPremium": true
+    },
+    {
+      "id": 102,
+      "name": "Sarah Khan",
+      "email": "sarah@example.com",
+      "phone": "+8801811122233",
+      "address": "Chattogram, Bangladesh",
+      "joinedDate": "2025-02-05",
+      "isPremium": false
+    },
+    {
+      "id": 103,
+      "name": "Michael Smith",
+      "email": "michael@example.com",
+      "phone": "+8801912345678",
+      "address": "Khulna, Bangladesh",
+      "joinedDate": "2025-03-18",
+      "isPremium": true
+    },
+    {
+      "id": 104,
+      "name": "Ayesha Rahman",
+      "email": "ayesha@example.com",
+      "phone": "+8801612345678",
+      "address": "Sylhet, Bangladesh",
+      "joinedDate": "2025-04-02",
+      "isPremium": false
+    },
+    {
+      "id": 105,
+      "name": "David Lee",
+      "email": "david@example.com",
+      "phone": "+8801512345678",
+      "address": "Rajshahi, Bangladesh",
+      "joinedDate": "2025-04-20",
+      "isPremium": true
+    }
+  ]
+}
